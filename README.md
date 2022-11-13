@@ -5,14 +5,10 @@ Welcome to the Wild trip
 alena's feature 1
 alena's feature 2
 
-
 # Group 4 is awesome! :)
 cece was here
 
+Lea is finally here as well and has added feature 4!
+Test :)
+Hello again, Test2!
 
-
-### Alena, can you add or delete anything from this line and see if we can resolve it in VSCode?
-
-### Tao Tao, can you add or delete anything from this line and see if we can resolve it in VSCode?
-
-### Lea, can you add or delete anything from this line and see if we can resolve it in VSCode?
